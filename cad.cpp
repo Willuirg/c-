@@ -16,8 +16,6 @@ int main() {
     cin >> idade;
     cout << "Digite o número do cartão: ";
     cin >> numerocart;
-    cout << "Digite o número da sala: ";
-    cin >> numerosala;
     if (tipodeatendimento == "cardiologista")
     {
         cout << "O paciente " << nome << " tem " << idade << " anos e será atendido na salas 106 a 112" << "." << endl;
