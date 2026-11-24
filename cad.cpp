@@ -22,7 +22,7 @@ int main() {
     }
     else if (tipodeatendimento == "Pediatra")
     {
-        cout << "O paciente " << nome << " tem " << idade << "anos e será atendido na salas 90 a 95" << "." << endl;
+        cout << "O paciente " << nome << " tem " << idade << " anos e será atendido na salas 90 a 95" << "." << endl;
     }
     else if (tipodeatendimento == "Clinico Geral")
     {
